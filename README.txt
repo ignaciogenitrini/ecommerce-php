@@ -4,3 +4,4 @@ Es un sistema e-commerce donde se pueden realizar compras mediante la api de pay
 En posterior actualizació  le voy a añadir un panel de administración donde se podran subir productos, administrar las 
 ventas, etc.
 
+Video de muestra: https://www.youtube.com/watch?v=5VMiMFhqDJw
